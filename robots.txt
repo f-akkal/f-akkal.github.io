@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /Akkal_AKFC_CCMS_001.pdf
+Disallow: /c5e423c7-1b0a-4bc1-b007-1ec89167972b.html
+Disallow: /mentionslegales.html
+Disallow: /reglementinterieur.html
+Disallow: /rgpd.html
+Disallow: /Contact-reservation.html
+Disallow: /CCMS_001_download.html
