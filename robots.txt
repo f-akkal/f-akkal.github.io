@@ -8,3 +8,4 @@ Disallow: /reglementinterieur.html
 Disallow: /rgpd.html
 Disallow: /Contact-reservation.html
 Disallow: /CCMS_001_download.html
+Disallow: /ITCO_001_download.html
